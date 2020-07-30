@@ -1,6 +1,7 @@
 # GroupG
 
 ### Project question
+How does tau protein affect synaptic scaling in AD patients?
 
 ### How we plan out to carry out our project
 
@@ -20,5 +21,6 @@ Brain banks: https://www.alzforum.org/brain-banks
 ModelDB: https://senselab.med.yale.edu/modeldb/
 
 #### Journal articles
+"Electrostimulation to reduce synaptic scaling driven progression of Alzheimer's disease": https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=154096&file=/RowanEtAl2014/alzinfo.m#tabs-2
 
 ### Other questions/thoughts
