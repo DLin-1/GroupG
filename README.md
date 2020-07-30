@@ -11,6 +11,8 @@ Possible therapeutic treatments of Alzheimer's: https://github.com/ModelDBReposi
 
 Synaptic scaling in Alzheimer's: https://github.com/ModelDBRepository/154096
 
+Mrs Bezaire's model for Alzheimer's in a single cell: https://github.com/risecourse/BahlSynapsesPy
+
 #### Databases
 Mice models with Alzheimer's: https://www.alzforum.org/research-models/alzheimers-disease
 
