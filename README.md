@@ -2,6 +2,7 @@
 
 ### Project question
 How does tau protein affect synaptic scaling in AD patients?
+How does the tau phosphorylation affect neural networks?
 
 ### How we plan out to carry out our project
 
