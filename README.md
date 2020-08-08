@@ -12,7 +12,7 @@ Will the contribution of tau protein to synaptic scaling ultimately affect elect
 
 Synaptic scaling in Alzheimer's: https://github.com/ModelDBRepository/154096
 
-Mrs Bezaire's model for Alzheimer's in a single cell: https://github.com/risecourse/BahlSynapsesPy
+Mrs Bezaire's model for Alzheimer's in a single cell: https://github.com/risecourse/BahlSynapsesPy/blob/master/main.py
 
 #### Databases
 Mice models with Alzheimer's: https://www.alzforum.org/research-models/alzheimers-disease
